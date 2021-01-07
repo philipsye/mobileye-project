@@ -9,3 +9,5 @@
 ## `phase 3:`
 * Estimating the distance to each detected traffic light from the camera picturing the images of interest, involving geometric and linear algebra calculations.
 
+## `phase 4:`
+* Integrating all previous parts into a functional and intuitive SW product.
